@@ -1,8 +1,38 @@
-# React + Vite
+# ChatApp - JaxxConnect 📩
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Desarrollo Web con React JS
 
-Currently, two official plugins are available:
+Esta fue la implementación de todo lo visto en el curso de React, impartido por IECA, a través de TalentoTechGto.\
+**Instructor**: _Uriel Infante_ [@ur13l](https://github.com/ur13l)\
+**Alumno**: _José Emmanuel Chávez Zepeda_ [@JaxxBalyit](https://github.com/JaxxBalyit)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Temario 📚
+
+- Fundamentos de Desarrollo Web
+- Javascript
+- Aplicaciones con React
+- Hooks y navegabilidad
+- Consumo de Web APIs y Estado
+- Herramientas en la nube
+
+## Uso en código 🧩
+
+### Instalación ⌨️
+
+Para instalar las dependencias del proyecto, ejecutar el siguiente comando:
+
+```bash
+npm install
+```
+
+### Ejecución 💻
+
+Para ejecutar el proyecto en modo desarrollo, ejecutar el siguiente comando:
+
+```bash
+npm run dev
+```
+
+## Demo 🕹️
+
+Falta agregar demo y funcionalidad de varias salas de chat.
