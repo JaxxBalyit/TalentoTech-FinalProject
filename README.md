@@ -35,4 +35,20 @@ npm run dev
 
 ## Demo 🕹️
 
-Falta agregar demo y funcionalidad de varias salas de chat.
+[https://chatapp-jaxx.web.app](https://chatapp-jaxx.web.app)\
+Aquí se puede llegar a probar el proyecto, directamente para verificar su funcionalidad.
+
+## Posibles Mejoras 📈
+
+- Agregar funcionalidad de más salas de chat.
+- Estilos visuales.
+- Mejoras en la UX y UI.
+
+## Feedback ✌🏼
+
+**Email**: [Mi e-mail](mailto:chavez.emmanuel020310@gmail.com)
+
+## Contacto 🫱🏻‍🫲🏻
+
+**Resume**: Checa mis proyectos [aquí](https://jaxxbalyit.github.io/Resume)\
+**E-Mail**: [Jaxx's E-mail](mailto:chavez.emmanuel020310@gmail.com)
